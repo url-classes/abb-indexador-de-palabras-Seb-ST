@@ -3,5 +3,5 @@
 Datos para que funcione:
 
 - Ejecute archivo llamado main
-- Para que el programa reconozca las palabras de los .txt estas tienen que estar separadas de espacion en blanco
+- Para que el programa reconozca las palabras de los .txt estas tienen que estar separadas de espacios en blanco
 - Puedes agregarle indefinidos archivos .txt
